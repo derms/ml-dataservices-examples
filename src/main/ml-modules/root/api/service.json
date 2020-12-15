@@ -1,0 +1,4 @@
+{	
+    "endpointDirectory" : "/api",
+    "$javaClass"        : "com.marklogic.sample.Api"
+ }

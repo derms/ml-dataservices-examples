@@ -1,0 +1,23 @@
+{
+  "functionName":"getCountForCollection",
+  "params":[
+    {
+      "name":"collection",
+      "datatype":"string",
+      "multiple":false,
+      "nullable":false
+    }
+  ],
+  "return":{
+    "datatype":"int",
+    "nullable":false,
+    "multiple":false
+  },
+
+  "monitoring":{
+    "general": {
+      "enabled": true
+    },
+    "custom": true 
+  }
+}

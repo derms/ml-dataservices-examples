@@ -1,0 +1,16 @@
+{
+    "functionName": "entities",
+    "params" : [ 
+        {
+            "name" : "action",
+            "datatype" : "string"
+        },
+        {
+            "name" : "name",
+            "datatype" : "string"
+        }
+    ],
+    "return": {
+        "datatype": "object"
+    }
+}
