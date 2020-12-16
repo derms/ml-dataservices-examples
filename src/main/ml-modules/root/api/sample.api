@@ -1,0 +1,12 @@
+{
+    "functionName": "sample",
+    "params" : [ 
+        {
+            "name" : "name",
+            "datatype" : "string"
+        }
+    ],
+    "return": {
+        "datatype": "object"
+    }
+}
